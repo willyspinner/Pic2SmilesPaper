@@ -6,4 +6,4 @@ Worked with Wilson Jusuf on this project. In the project, Wilson worked on the i
 We implemented a bare-bones transformer from Harvard NLP group, which decodes to their SMILES representation.
 We also integrated a self-critical training scheme, which uses policy gradient to optimize the model to minimize the levehstein distance between target and our predicted. All and all, we managed to get a SOTA performance of ~75+% accurancy (based on levehstein distance). 
 
-Check the paper out here ![paper.pdf](https://github.com/Leoputera2407/Pic2SMILES/blob/master/paper.pdf) 
+Check the paper out here ![paper.pdf](https://github.com/Leoputera2407/Pic2SmilesPaper/blob/master/paper.pdf) 
